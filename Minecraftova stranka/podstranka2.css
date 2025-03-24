@@ -1,0 +1,114 @@
+.body{
+    background-color: #e6e4e4;
+}
+
+.logo-item{
+    border: 1px solid #c6c4c4;
+    height: 125px;
+    width: 1890px;
+    background-color: #c4c3c3;
+    border-radius: 10px;
+    box-shadow: 10px 10px 7px white;
+}
+
+.logo{
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    font-family: "Noto Serif", serif;
+}
+
+.menu-item{
+    border: 1px solid #c4c3c3;
+    background-color: #c4c3c3;
+    height: 125px;
+    width: 1890px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 7px white;
+}
+
+.menu-item1{
+    float: left;
+    color: black;
+    font-family: "Noto Serif", serif;
+    font-size: 65px;
+    padding-left: 200px;
+    text-decoration: none;
+}
+
+.menu-item1:hover{
+    text-shadow: 3px 3px 6px white;
+}
+
+.obsah_0{
+    border: 1px solid #c4c3c3;
+    border-radius: 10px;
+    box-shadow: 10px 10px 7px white;
+    background-color: #c4c3c3;
+    height: 1000px;
+    width: 1890px;
+    margin-top: 170px;
+}
+
+.obsah2{
+    color: black;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 5px 5px 3px white;
+    font-family: "Noto Serif", serif;
+}
+
+.my{
+    float: right;
+    padding-right: 100px;
+}
+
+.genovice_text{
+    font-size: 23px;
+    text-align: left;
+    font-style: italic;
+    padding-top: 100px;
+}
+
+.domov{
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    font-family: "Noto Serif", serif;
+    margin-top: 50px;
+    margin-left: 900px;
+    margin-right: 100px;
+    float: right;
+}
+
+.zaver{
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 7px white;
+    background-color: rgb(54, 54, 54);
+    width: 1890px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.logo_z{
+    color: white;
+    text-shadow: 5px 5px 3px black;
+    font-size: 20px;
+    padding-left: 500px;
+    padding-top: 50px;
+    float: left;
+    font-family: "Noto Serif", serif;
+}
+
+.item_z1:hover{
+    text-shadow: 5px 5px 3px black;
+}
+
+.item_z1{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    padding-left: 390px;
+}
